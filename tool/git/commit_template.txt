@@ -1,0 +1,18 @@
+
+
+# ==== Emojis ====
+# 🐛  :bug: バグ修正
+# 👍  :+1: 機能改善
+# ✨  :sparkles: 部分的な機能追加
+# 🎉  :tada: 盛大に祝うべき大きな機能追加
+# ⚙️  :gear: ビルド設定などの変更
+# ♻️  :recycle: リファクタリング
+# 💚  :green_heart: LintやテストやCIの修正・改善
+# 🚀  :rocket: パフォーマンス改善
+# 🆙 :up: 依存パッケージなどのアップデート
+# 🕷 :spider: 仕様変更、仕様追加起因のバグ修正
+
+# ==== Format ====
+# :emoji: Subject
+#
+# Commit body...
